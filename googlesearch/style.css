@@ -1,7 +1,7 @@
 /* === ZÁKLADNÍ NASTAVENÍ === */
 html {
-  font-size: 1rem; /* základní velikost písma */
-  
+  font-size: 18px; /* základní velikost písma — zvýšeno pro větší text */
+
 }
 
 body {
